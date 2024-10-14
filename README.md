@@ -1,13 +1,13 @@
 <div align="center">
-  <img alt="lightwhale logo" src="resources/LightWhaleBicolor.SVG" style="height: 180px"/>
-  <img alt="lightwhale logo" src="resources/LightWhaleBlanc.SVG" style="height: 180px"/>
+  <img alt="lightwhale logo" src="https://github.com/madeshiro/lightwhale/blob/main/resources/LightWhaleBicolor.SVG" style="height: 180px"/>
+  <img alt="lightwhale logo" src="https://github.com/madeshiro/lightwhale/blob/main/resources/LightWhaleBlanc.SVG" style="height: 180px"/>
 </div>
 
 ---
 
 [![gpl3.0](https://img.shields.io/badge/license-GPL%203.0-darkred)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 &nbsp;
-![main workflow](https://github.com/madeshiro/lightwhale-algorithm/actions/workflows/main.yml/badge.svg?branch=main)]
+![main workflow](https://github.com/madeshiro/lightwhale-algorithm/actions/workflows/main.yml/badge.svg?branch=main)
 
 # Lightwhale Algorithm
 > Compression and images encoding algorithms: reduce data to rebuild
