@@ -10,23 +10,26 @@
 ![main workflow](https://github.com/madeshiro/lightwhale-algorithm/actions/workflows/main.yml/badge.svg?branch=main)
 
 # Lightwhale Algorithm
-> Compression and images encoding algorithms: reduce data to rebuild
+> Compression and image encoding algorithms: reduce data to rebuild
 
-The LightWhale project is a regroupment of multiples subprojects intended for IoT Wireless communication using LoRa communication system. It is separated into two differents Git:
-- The Software/Hardware project, regrouping the custom communication protocol, drivers and hardware description of the home-made network card.
-- **The algorithms research git containing a bunch of python scripts and libs for image compression and encoding**
+The LightWhale project is a regroupment of multiple subprojects intended for IoT Wireless communication using LoRa communication system. It is separated into two different Git:
+- [The Software/Hardware project](https://github.com/madeshiro/lightwhale), regrouping the custom communication protocol, drivers and hardware description of the home-made network card.
+- **The algorithm research git containing a bunch of python scripts and libs for image compression and encoding**
 
-The aim of the LightWhale project is to be able to communicate heavy kind of information (HD images) through the LoRa network using differents tricks like data compression/reduction and full usage of LoRa potential. 
-To do so, a custom network card based on differents LoRa chips is currently being designed. 
+The aim of the LightWhale project is to be able to communicate heavy kind of information (HD images) through the LoRa network using different tricks like data compression/reduction and full usage of LoRa potential. 
+To do so, a custom network card based on different LoRa chips is currently being designed. 
 
 > [!NOTE]
-> This project is an master degree's end-of-study project in the context of the SETSIS master (Embedded Systems and Signal Processing for Images and Sounds) at the Clermont-Auvergne University, France.
+> This project is a master’s degree end-of-study’s project in the context of the SETSIS master 
+> (Embedded Systems and Signal Processing for Images and Sounds)
+> at the Clermont-Auvergne University, France.
 
 > [!IMPORTANT]
-> This project is under the [General Public Licence 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). 
+> [![gpl-v3 logo](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)<br/>
+> This project is under the [General Public Licence 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 ---
 <div align="center">
   
-  [![eupi](https://eupi.uca.fr/uas/Eupi/LOGO_COMPOSANTE/eupi_long.png)](https://eupi.uca.fr)
+  [![eupi](https://eupi.uca.fr/uas/Eupi/LOGO/eupi_long.png)](https://eupi.uca.fr)
   
 </div>

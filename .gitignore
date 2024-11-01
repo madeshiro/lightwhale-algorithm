@@ -1,0 +1,9 @@
+# IDE configs
+.vscode/
+.idea/
+
+# Tests and notebooks output
+**/output
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints
